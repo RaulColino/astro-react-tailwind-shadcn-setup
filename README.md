@@ -1,3 +1,14 @@
+# How to use this template
+
+1. Copy these files to a new empty folder
+
+![alt text](.img/files.jpg)
+
+
+2. Update the name of the project inside 
+package.json and run `npm install` to install the dependencies.
+
+
 # Astro Starter Kit: Basics
 
 ```sh
